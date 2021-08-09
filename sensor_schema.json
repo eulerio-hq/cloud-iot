@@ -1,0 +1,16 @@
+{
+    "title": "Sensor",
+    "description": "IoT sensor readings",
+    "type": "object",
+    "properties": {
+        "temp": {
+            "type": "number"
+        },
+        "humidity": {
+            "type": "number"
+        },
+        "light": {
+            "type": "integer"
+        }
+    }
+}

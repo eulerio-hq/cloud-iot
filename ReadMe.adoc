@@ -1,0 +1,5 @@
+= Cloud IoT Arduino Example =
+
+Example sketch for managing sensor data in the Eulerio Data Platform.
+
+For more information please visit tutorial at https://eulerio.medium.com/cloud-iot-monitoring-your-environment-506a82ca2c63
